@@ -22,4 +22,5 @@
     <string name="sign_in_prompt">Sign in to get started</string>
     <string name="play_services_error_fmt">Google Play Services Error: %s</string>
     <string name="description_profile_picture">Profile Picture</string>
+    <string name="test_banner_ad_unit_id">Test Banner Ad unit Id</string>
 </resources>
